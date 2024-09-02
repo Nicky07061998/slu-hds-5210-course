@@ -1,6 +1,6 @@
 # SLU HDS 5210 Course Repository
 
-Welcome to the SLU HDS 5210 course repository! This is a collaborative space for student and Tutor Adams in the HDS 5210 course to share assignment.
+Welcome to the SLU HDS 5210 course repository! This is a collaborative space for student and Faculty Tutor Adams in the HDS 5210 course to share assignment.
 
 ## Repository Structure
 
