@@ -1,0 +1,5 @@
+cd slu-hds-5210-course/week02
+git pull
+git add week02_assignment_1.ipynb week02_assignment_2.ipynb
+git commit -a -m "Submitting homework assignments for week 2"
+git push
